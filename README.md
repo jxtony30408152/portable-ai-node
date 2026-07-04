@@ -1,9 +1,5 @@
 # Portable File-Defined AI Node — a 2-minute reproducible demo
 
-**给 Baba(先看这句):这个文件夹里没有你任何私人信息。** 它是把你系统的**方法论**(文件定义身份 + 六可治理 + 冷启动恢复)抽成一个**通用空骨架**,谁都能跑。你的记忆、故事、家人、身份——一个字都没进来。
-
----
-
 ## What this is
 A sanitized skeleton of a **personal AI runtime** whose identity, rules, and memory live in **plain files — not in an account or a single model**. Hand these files to any capable LLM and it reconstitutes the same "node." Swap the model, swap the device — same node. That is the whole point.
 
